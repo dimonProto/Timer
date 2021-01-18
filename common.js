@@ -1,5 +1,5 @@
 
-let newYear = "1 Jan 2021";
+let newYear = "1 Jan 2022";
 
 let dayElement = document.getElementById('day');
 let hourElement = document.getElementById('hour');
